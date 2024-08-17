@@ -11,8 +11,8 @@ You can also view all constellations visible from your location right now
 ## INSTALLATION
 
 ```bash
-git clone 
-cd 
+git clone https://github.com/Lokesh-Spectre/celestial_catalogue.git
+cd celestial_catalogue
 pip install tabulate
 py main.py
 ```
